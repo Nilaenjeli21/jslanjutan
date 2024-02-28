@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Nila Enjeli",
+        "nim": 2101092012,
+        "email": "nilaanjeli@gmail.com",
+        "jurusan": "Teknologi Informasi",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Salsabila",
+        "nim": 2101092016,
+        "email": "salsabi@gmail.com",
+        "jurusan": "Teknologi Informasi",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Nyla Putri",
+        "nim": 2101092000,
+        "email": "nyli@gmail.com",
+        "jurusan": "Teknologi Informasi",
+        "idDosenWali": 3
+    }
+]
